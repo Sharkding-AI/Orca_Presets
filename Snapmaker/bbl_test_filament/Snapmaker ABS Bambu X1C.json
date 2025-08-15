@@ -9,12 +9,39 @@
         "60"
     ],
     "filament_max_volumetric_speed": [
-        "16"
+        "18"
     ],
     "slow_down_layer_time": [
         "12"
     ],
     "compatible_printers": [
         "Snapmaker U1 (0.4 nozzle)"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_end_gcode": [
+        ""
+    ],
+    "filament_flow_ratio": [
+        "0.97"
+    ],
+    "filament_multitool_ramming": [
+        "1"
+    ],
+    "filament_multitool_ramming_volume": [
+        "0.5"
+    ],
+    "filament_start_gcode": [
+        ""
+    ],
+    "nozzle_temperature": [
+        "280"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "280"
+    ],
+    "pressure_advance": [
+        "0.015"
     ]
 }

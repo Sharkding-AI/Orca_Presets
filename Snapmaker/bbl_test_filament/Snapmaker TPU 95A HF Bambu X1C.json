@@ -7,5 +7,41 @@
     "instantiation": "true",
     "compatible_printers": [
         "Snapmaker U1 (0.4 nozzle)"
+    ],
+    "additional_cooling_fan_speed": [
+        "100"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_deretraction_speed": [
+        "10"
+    ],
+    "filament_end_gcode": [
+        ""
+    ],
+    "filament_max_volumetric_speed": [
+        "10"
+    ],
+    "filament_multitool_ramming": [
+        "1"
+    ],
+    "filament_multitool_ramming_flow": [
+        "5"
+    ],
+    "filament_multitool_ramming_volume": [
+        "0.5"
+    ],
+    "filament_retraction_length": [
+        "nil"
+    ],
+    "filament_retraction_speed": [
+        "10"
+    ],
+    "filament_start_gcode": [
+        ""
+    ],
+    "pressure_advance": [
+        "0.07"
     ]
 }

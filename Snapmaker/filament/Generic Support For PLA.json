@@ -22,5 +22,14 @@
     ],
     "nozzle_temperature_initial_layer": [
         "230"
+    ],
+    "filament_multitool_ramming": [
+        "1"
+    ],
+    "filament_multitool_ramming_flow": [
+        "15"
+    ],
+    "filament_multitool_ramming_volume": [
+        "0.5"
     ]
 }

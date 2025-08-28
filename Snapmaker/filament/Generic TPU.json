@@ -20,8 +20,5 @@
     ],
     "filament_end_gcode": [
         "; filament end gcode \n\n"
-    ],
-    "default_filament_colour": [
-        "#8269AC"
     ]
 }

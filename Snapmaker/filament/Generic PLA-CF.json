@@ -1,0 +1,11 @@
+{
+    "type": "filament",
+    "name": "Generic PLA-CF",
+    "inherits": "Generic PLA-CF @base",
+    "from": "system",
+    "setting_id": "GFSL9811",
+    "instantiation": "true",
+    "compatible_printers": [
+        "Snapmaker U1 (0.4 nozzle)"
+    ]
+}

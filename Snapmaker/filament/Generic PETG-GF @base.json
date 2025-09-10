@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Snapmaker PETG-GF @base",
+    "name": "Generic PETG-GF @base",
     "inherits": "fdm_filament_pet_generic",
     "from": "system",
     "filament_id": "GFG5022",

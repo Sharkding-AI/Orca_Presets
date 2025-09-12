@@ -29,5 +29,8 @@
     ],
     "filament_multitool_ramming_volume": [
         "0.5"
+    ],
+    "filament_vendor": [
+        "Generic"
     ]
 }

@@ -15,7 +15,7 @@
         "5"
     ],
     "filament_max_volumetric_speed": [
-        "10"
+        "11"
     ],
     "overhang_fan_speed": [
         "100"
@@ -51,6 +51,9 @@
         "80"
     ],
     "pressure_advance": [
-        "0.03"
+        "0.02"
+    ],
+    "filament_vendor": [
+        "Generic"
     ]
 }

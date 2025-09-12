@@ -6,7 +6,7 @@
     "setting_id": "GFSG00_01",
     "instantiation": "true",
     "filament_max_volumetric_speed": [
-        "13"
+        "12"
     ],
     "filament_long_retractions_when_cut": [
         "1"
@@ -46,5 +46,8 @@
     ],
     "pressure_advance": [
         "0.04"
+    ],
+    "filament_vendor": [
+        "Generic"
     ]
 }

@@ -139,40 +139,40 @@
       "sub_path": "process/0.20 Standard @Snapmaker U1 (0.4 nozzle).json"
     },
     {
-      "name": "0.08mm Extra Fine @Snapmaker U1 (0.4 nozzle)",
-      "sub_path": "process/0.08mm Extra Fine @Snapmaker U1 (0.4 nozzle).json"
+      "name": "0.08 Extra Fine @Snapmaker U1 (0.4 nozzle)",
+      "sub_path": "process/0.08 Extra Fine @Snapmaker U1 (0.4 nozzle).json"
     },
     {
-      "name": "0.08mm High Quality @Snapmaker U1 (0.4 nozzle)",
-      "sub_path": "process/0.08mm High Quality @Snapmaker U1 (0.4 nozzle).json"
+      "name": "0.08 High Quality @Snapmaker U1 (0.4 nozzle)",
+      "sub_path": "process/0.08 High Quality @Snapmaker U1 (0.4 nozzle).json"
     },
     {
-      "name": "0.12mm Fine @Snapmaker U1 (0.4 nozzle)",
-      "sub_path": "process/0.12mm Fine @Snapmaker U1 (0.4 nozzle).json"
+      "name": "0.12 Fine @Snapmaker U1 (0.4 nozzle)",
+      "sub_path": "process/0.12 Fine @Snapmaker U1 (0.4 nozzle).json"
     },
     {
-      "name": "0.12mm High Quality @Snapmaker U1 (0.4 nozzle)",
-      "sub_path": "process/0.12mm High Quality @Snapmaker U1 (0.4 nozzle).json"
+      "name": "0.12 High Quality @Snapmaker U1 (0.4 nozzle)",
+      "sub_path": "process/0.12 High Quality @Snapmaker U1 (0.4 nozzle).json"
     },
     {
-      "name": "0.16mm High Quality @Snapmaker U1 (0.4 nozzle)",
-      "sub_path": "process/0.16mm High Quality @Snapmaker U1 (0.4 nozzle).json"
+      "name": "0.16 High Quality @Snapmaker U1 (0.4 nozzle)",
+      "sub_path": "process/0.16 High Quality @Snapmaker U1 (0.4 nozzle).json"
     },
     {
-      "name": "0.16mm Optimal @Snapmaker U1 (0.4 nozzle)",
-      "sub_path": "process/0.16mm Optimal @Snapmaker U1 (0.4 nozzle).json"
+      "name": "0.16 Optimal @Snapmaker U1 (0.4 nozzle)",
+      "sub_path": "process/0.16 Optimal @Snapmaker U1 (0.4 nozzle).json"
     },
     {
-      "name": "0.20mm strength @Snapmaker U1 (0.4 nozzle)",
-      "sub_path": "process/0.20mm strength @Snapmaker U1 (0.4 nozzle).json"
+      "name": "0.20 strength @Snapmaker U1 (0.4 nozzle)",
+      "sub_path": "process/0.20 strength @Snapmaker U1 (0.4 nozzle).json"
     },
     {
-      "name": "0.24mm Draft @Snapmaker U1 (0.4 nozzle)",
-      "sub_path": "process/0.24mm Draft @Snapmaker U1 (0.4 nozzle).json"
+      "name": "0.24 Draft @Snapmaker U1 (0.4 nozzle)",
+      "sub_path": "process/0.24 Draft @Snapmaker U1 (0.4 nozzle).json"
     },
     {
-      "name": "0.28mm Extra Draft @Snapmaker U1 (0.4 nozzle)",
-      "sub_path": "process/0.28mm Extra Draft @Snapmaker U1 (0.4 nozzle).json"
+      "name": "0.28 Extra Draft @Snapmaker U1 (0.4 nozzle)",
+      "sub_path": "process/0.28 Extra Draft @Snapmaker U1 (0.4 nozzle).json"
     },
 
     

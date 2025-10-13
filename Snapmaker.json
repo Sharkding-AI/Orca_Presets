@@ -587,10 +587,6 @@
       "sub_path":"bbl_test_filament/Snapmaker TPU 95A HF Bambu @base.json"
     },
     {
-      "name":"Snapmaker TPU 95A HF Bambu X1C",
-      "sub_path":"bbl_test_filament/Snapmaker TPU 95A HF Bambu X1C.json"
-    },
-    {
       "name":"eSUN PLA+ Bambu @base",
       "sub_path":"bbl_test_filament/eSUN PLA+ @base.json"
     },
@@ -621,10 +617,6 @@
     {
       "name":"Generic BVOH Bambu @base",
       "sub_path":"bbl_test_filament/Generic BVOH Bambu @base.json"
-    },
-    {
-      "name":"Generic BVOH Bambu X1C",
-      "sub_path":"bbl_test_filament/Generic BVOH Bambu X1C.json"
     },
     {
       "name":"fdm_filament_eva_bambu",

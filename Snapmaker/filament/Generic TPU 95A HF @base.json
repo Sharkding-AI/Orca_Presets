@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Snapmaker TPU 95A HF @base",
+    "name": "Generic TPU 95A HF @base",
     "inherits": "fdm_filament_tpu_generic",
     "from": "system",
     "filament_id": "GFU00",

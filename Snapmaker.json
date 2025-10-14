@@ -581,12 +581,12 @@
       "sub_path": "filament/Generic BVOH.json"
     },
     {
-      "name": "Snapmaker TPU 95A HF @base",
-      "sub_path": "filament/Snapmaker TPU 95A HF @base.json"
+      "name": "Generic TPU 95A HF @base",
+      "sub_path": "filament/Generic TPU 95A HF @base.json"
     },
     {
-      "name": "Snapmaker TPU 95A HF",
-      "sub_path": "filament/Snapmaker TPU 95A HF.json"
+      "name": "Generic TPU 95A HF",
+      "sub_path": "filament/Generic TPU 95A HF.json"
     },
 
 

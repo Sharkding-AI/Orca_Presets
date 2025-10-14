@@ -634,7 +634,7 @@
       "sub_path": "filament/Generic Support For PLA @base.json"
     },
     {
-      "name": "Generic Support For PLA @U1 0.2 nozzle",
+      "name": "Generic Support For PLA test @U1 0.2 nozzle",
       "sub_path": "filament/Generic Support For PLA @U1 0.2 nozzle.json"
     },
     {
@@ -642,11 +642,11 @@
       "sub_path": "filament/Generic Support For PLA @U1 0.4 nozzle.json"
     },
     {
-      "name": "Generic Support For PLA @U1 0.6 nozzle",
+      "name": "Generic Support For PLA test @U1 0.6 nozzle",
       "sub_path": "filament/Generic Support For PLA @U1 0.6 nozzle.json"
     },
     {
-      "name": "Generic Support For PLA @U1 0.8 nozzle",
+      "name": "Generic Support For PLA test @U1 0.8 nozzle",
       "sub_path": "filament/Generic Support For PLA @U1 0.8 nozzle.json"
     },
     {
@@ -658,7 +658,7 @@
       "sub_path": "filament/Generic PVA @base.json"
     },
     {
-      "name": "Generic PVA @U1 0.2 nozzle",
+      "name": "Generic PVA test @U1 0.2 nozzle",
       "sub_path": "filament/Generic PVA @U1 0.2 nozzle.json"
     },
     {
@@ -666,11 +666,11 @@
       "sub_path": "filament/Generic PVA @U1 0.4 nozzle.json"
     },
     {
-      "name": "Generic PVA @U1 0.6 nozzle",
+      "name": "Generic PVA test @U1 0.6 nozzle",
       "sub_path": "filament/Generic PVA @U1 0.6 nozzle.json"
     },
     {
-      "name": "Generic PVA @U1 0.8 nozzle",
+      "name": "Generic PVA test @U1 0.8 nozzle",
       "sub_path": "filament/Generic PVA @U1 0.8 nozzle.json"
     },
     {
@@ -682,7 +682,7 @@
       "sub_path": "filament/Generic PETG @base.json"
     },
     {
-      "name": "Generic PETG @U1 0.2 nozzle",
+      "name": "Generic PETG test @U1 0.2 nozzle",
       "sub_path": "filament/Generic PETG @U1 0.2 nozzle.json"
     },
     {
@@ -690,11 +690,11 @@
       "sub_path": "filament/Generic PETG @U1 0.4 nozzle.json"
     },
     {
-      "name": "Generic PETG @U1 0.6 nozzle",
+      "name": "Generic PETG test @U1 0.6 nozzle",
       "sub_path": "filament/Generic PETG @U1 0.6 nozzle.json"
     },
     {
-      "name": "Generic PETG @U1 0.8 nozzle",
+      "name": "Generic PETG test @U1 0.8 nozzle",
       "sub_path": "filament/Generic PETG @U1 0.8 nozzle.json"
     },
     {
@@ -702,7 +702,7 @@
       "sub_path": "filament/fdm_filament_tpu_generic.json"
     },
     {
-      "name": "Generic TPU @U1 0.2 nozzle",
+      "name": "Generic TPU test @U1 0.2 nozzle",
       "sub_path": "filament/Generic TPU @U1 0.2 nozzle.json"
     },
     {
@@ -710,11 +710,11 @@
       "sub_path": "filament/Generic TPU @U1 0.4 nozzle.json"
     },
     {
-      "name": "Generic TPU @U1 0.6 nozzle",
+      "name": "Generic TPU test @U1 0.6 nozzle",
       "sub_path": "filament/Generic TPU @U1 0.6 nozzle.json"
     },
     {
-      "name": "Generic TPU @U1 0.8 nozzle",
+      "name": "Generic TPU test @U1 0.8 nozzle",
       "sub_path": "filament/Generic TPU @U1 0.8 nozzle.json"
     },
     {
@@ -722,7 +722,7 @@
       "sub_path": "filament/Generic PCTG @base.json"
     },
     {
-      "name": "Generic PCTG @U1 0.2 nozzle",
+      "name": "Generic PCTG test @U1 0.2 nozzle",
       "sub_path": "filament/Generic PCTG @U1 0.2 nozzle.json"
     },
     {
@@ -730,11 +730,11 @@
       "sub_path": "filament/Generic PCTG @U1 0.4 nozzle.json"
     },
     {
-      "name": "Generic PCTG @U1 0.6 nozzle",
+      "name": "Generic PCTG test @U1 0.6 nozzle",
       "sub_path": "filament/Generic PCTG @U1 0.6 nozzle.json"
     },
     {
-      "name": "Generic PCTG @U1 0.8 nozzle",
+      "name": "Generic PCTG test @U1 0.8 nozzle",
       "sub_path": "filament/Generic PCTG @U1 0.8 nozzle.json"
     },
     {
@@ -742,7 +742,7 @@
       "sub_path": "filament/Generic PETG HF @base.json"
     },
     {
-      "name": "Generic PETG HF @U1 0.2 nozzle",
+      "name": "Generic PETG HF test @U1 0.2 nozzle",
       "sub_path": "filament/Generic PETG HF @U1 0.2 nozzle.json"
     },
     {
@@ -750,11 +750,11 @@
       "sub_path": "filament/Generic PETG HF @U1 0.4 nozzle.json"
     },
     {
-      "name": "Generic PETG HF @U1 0.6 nozzle",
+      "name": "Generic PETG HF test @U1 0.6 nozzle",
       "sub_path": "filament/Generic PETG HF @U1 0.6 nozzle.json"
     },
     {
-      "name": "Generic PETG HF @U1 0.8 nozzle",
+      "name": "Generic PETG HF test @U1 0.8 nozzle",
       "sub_path": "filament/Generic PETG HF @U1 0.8 nozzle.json"
     },
     {
@@ -762,7 +762,7 @@
       "sub_path": "filament/Generic PETG-CF @base.json"
     },
     {
-      "name": "Generic PETG-CF @U1 0.2 nozzle",
+      "name": "Generic PETG-CF test @U1 0.2 nozzle",
       "sub_path": "filament/Generic PETG-CF @U1 0.2 nozzle.json"
     },
     {
@@ -770,11 +770,11 @@
       "sub_path": "filament/Generic PETG-CF @U1 0.4 nozzle.json"
     },
     {
-      "name": "Generic PETG-CF @U1 0.6 nozzle",
+      "name": "Generic PETG-CF test @U1 0.6 nozzle",
       "sub_path": "filament/Generic PETG-CF @U1 0.6 nozzle.json"
     },
     {
-      "name": "Generic PETG-CF @U1 0.8 nozzle",
+      "name": "Generic PETG-CF test @U1 0.8 nozzle",
       "sub_path": "filament/Generic PETG-CF @U1 0.8 nozzle.json"
     },
     {
@@ -782,7 +782,7 @@
       "sub_path": "filament/Generic PETG-GF @base.json"
     },
     {
-      "name": "Generic PETG-GF @U1 0.2 nozzle",
+      "name": "Generic PETG-GF test @U1 0.2 nozzle",
       "sub_path": "filament/Generic PETG-GF @U1 0.2 nozzle.json"
     },
     {
@@ -790,11 +790,11 @@
       "sub_path": "filament/Generic PETG-GF @U1 0.4 nozzle.json"
     },
     {
-      "name": "Generic PETG-GF @U1 0.6 nozzle",
+      "name": "Generic PETG-GF test @U1 0.6 nozzle",
       "sub_path": "filament/Generic PETG-GF @U1 0.6 nozzle.json"
     },
     {
-      "name": "Generic PETG-GF @U1 0.8 nozzle",
+      "name": "Generic PETG-GF test @U1 0.8 nozzle",
       "sub_path": "filament/Generic PETG-GF @U1 0.8 nozzle.json"
     },
     {
@@ -802,7 +802,7 @@
       "sub_path": "filament/Generic PLA High Speed @base.json"
     },
     {
-      "name": "Generic PLA High Speed @U1 0.2 nozzle",
+      "name": "Generic PLA High Speed test @U1 0.2 nozzle",
       "sub_path": "filament/Generic PLA High Speed @U1 0.2 nozzle.json"
     },
     {
@@ -810,11 +810,11 @@
       "sub_path": "filament/Generic PLA High Speed @U1 0.4 nozzle.json"
     },
     {
-      "name": "Generic PLA High Speed @U1 0.6 nozzle",
+      "name": "Generic PLA High Speed test @U1 0.6 nozzle",
       "sub_path": "filament/Generic PLA High Speed @U1 0.6 nozzle.json"
     },
     {
-      "name": "Generic PLA High Speed @U1 0.8 nozzle",
+      "name": "Generic PLA High Speed test @U1 0.8 nozzle",
       "sub_path": "filament/Generic PLA High Speed @U1 0.8 nozzle.json"
     },
     {
@@ -822,7 +822,7 @@
       "sub_path": "filament/Generic PLA Silk @base.json"
     },
     {
-      "name": "Generic PLA Silk @U1 0.2 nozzle",
+      "name": "Generic PLA Silk @U1 test 0.2 nozzle",
       "sub_path": "filament/Generic PLA Silk @U1 0.2 nozzle.json"
     },
     {
@@ -830,11 +830,11 @@
       "sub_path": "filament/Generic PLA Silk @U1 0.4 nozzle.json"
     },
     {
-      "name": "Generic PLA Silk @U1 0.6 nozzle",
+      "name": "Generic PLA Silk @U1 test 0.6 nozzle",
       "sub_path": "filament/Generic PLA Silk @U1 0.6 nozzle.json"
     },
     {
-      "name": "Generic PLA Silk @U1 0.8 nozzle",
+      "name": "Generic PLA Silk @U1 test 0.8 nozzle",
       "sub_path": "filament/Generic PLA Silk @U1 0.8 nozzle.json"
     },
     {
@@ -842,7 +842,7 @@
       "sub_path": "filament/Generic PLA @base.json"
     },
     {
-      "name": "Generic PLA @U1 0.2 nozzle",
+      "name": "Generic PLA test @U1 0.2 nozzle",
       "sub_path": "filament/Generic PLA @U1 0.2 nozzle.json"
     },
     {
@@ -850,11 +850,11 @@
       "sub_path": "filament/Generic PLA @U1 0.4 nozzle.json"
     },
     {
-      "name": "Generic PLA @U1 0.6 nozzle",
+      "name": "Generic PLA test @U1 0.6 nozzle",
       "sub_path": "filament/Generic PLA @U1 0.6 nozzle.json"
     },
     {
-      "name": "Generic PLA @U1 0.8 nozzle",
+      "name": "Generic PLA test @U1 0.8 nozzle",
       "sub_path": "filament/Generic PLA @U1 0.8 nozzle.json"
     },
     {
@@ -862,7 +862,7 @@
       "sub_path": "filament/Generic PLA-CF @base.json"
     },
     {
-      "name": "Generic PLA-CF @U1 0.2 nozzle",
+      "name": "Generic PLA-CF test @U1 0.2 nozzle",
       "sub_path": "filament/Generic PLA-CF @U1 0.2 nozzle.json"
     },
     {
@@ -870,11 +870,11 @@
       "sub_path": "filament/Generic PLA-CF @U1 0.4 nozzle.json"
     },
     {
-      "name": "Generic PLA-CF @U1 0.6 nozzle",
+      "name": "Generic PLA-CF test @U1 0.6 nozzle",
       "sub_path": "filament/Generic PLA-CF @U1 0.6 nozzle.json"
     },
     {
-      "name": "Generic PLA-CF @U1 0.8 nozzle",
+      "name": "Generic PLA-CF test @U1 0.8 nozzle",
       "sub_path": "filament/Generic PLA-CF @U1 0.8 nozzle.json"
     },
     {
@@ -882,7 +882,7 @@
       "sub_path": "filament/Generic BVOH @base.json"
     },
     {
-      "name": "Generic BVOH @U1 0.2 nozzle",
+      "name": "Generic BVOH test @U1 0.2 nozzle",
       "sub_path": "filament/Generic BVOH @U1 0.2 nozzle.json"
     },
     {
@@ -890,11 +890,11 @@
       "sub_path": "filament/Generic BVOH @U1 0.4 nozzle.json"
     },
     {
-      "name": "Generic BVOH @U1 0.6 nozzle",
+      "name": "Generic BVOH test @U1 0.6 nozzle",
       "sub_path": "filament/Generic BVOH @U1 0.6 nozzle.json"
     },
     {
-      "name": "Generic BVOH @U1 0.8 nozzle",
+      "name": "Generic BVOH test @U1 0.8 nozzle",
       "sub_path": "filament/Generic BVOH @U1 0.8 nozzle.json"
     },
     {
@@ -902,7 +902,7 @@
       "sub_path": "filament/Generic TPU 95A HF @base.json"
     },
     {
-      "name": "Generic TPU 95A HF @U1 0.2 nozzle",
+      "name": "Generic TPU 95A HF test @U1 0.2 nozzle",
       "sub_path": "filament/Generic TPU 95A HF @U1 0.2 nozzle.json"
     },
     {
@@ -910,11 +910,11 @@
       "sub_path": "filament/Generic TPU 95A HF @U1 0.4 nozzle.json"
     },
     {
-      "name": "Generic TPU 95A HF @U1 0.6 nozzle",
+      "name": "Generic TPU 95A HF test @U1 0.6 nozzle",
       "sub_path": "filament/Generic TPU 95A HF @U1 0.6 nozzle.json"
     },
     {
-      "name": "Generic TPU 95A HF @U1 0.8 nozzle",
+      "name": "Generic TPU 95A HF test @U1 0.8 nozzle",
       "sub_path": "filament/Generic TPU 95A HF @U1 0.8 nozzle.json"
     },
 
@@ -1530,7 +1530,7 @@
       "sub_path": "filament/Snapmaker PLA Matte @U1 base.json"
     },
     {
-      "name": "Snapmaker PLA Matte @U1 0.2 nozzle",
+      "name": "Snapmaker PLA Matte test @U1 0.2 nozzle",
       "sub_path": "filament/Snapmaker PLA Matte @U1 0.2 nozzle.json"
     },
     {
@@ -1538,11 +1538,11 @@
       "sub_path": "filament/Snapmaker PLA Matte @U1 0.4 nozzle.json"
     },
     {
-      "name": "Snapmaker PLA Matte @U1 0.6 nozzle",
+      "name": "Snapmaker PLA Matte test @U1 0.6 nozzle",
       "sub_path": "filament/Snapmaker PLA Matte @U1 0.6 nozzle.json"
     },
     {
-      "name": "Snapmaker PLA Matte @U1 0.8 nozzle",
+      "name": "Snapmaker PLA Matte test @U1 0.8 nozzle",
       "sub_path": "filament/Snapmaker PLA Matte @U1 0.8 nozzle.json"
     },
     {
@@ -1550,7 +1550,7 @@
       "sub_path": "filament/Snapmaker PLA Basic @U1 base.json"
     },
     {
-      "name": "Snapmaker PLA Basic @U1 0.2 nozzle",
+      "name": "Snapmaker PLA Basic test @U1 0.2 nozzle",
       "sub_path": "filament/Snapmaker PLA Basic @U1 0.2 nozzle.json"
     },
     {
@@ -1558,11 +1558,11 @@
       "sub_path": "filament/Snapmaker PLA Basic @U1 0.4 nozzle.json"
     },
     {
-      "name": "Snapmaker PLA Basic @U1 0.6 nozzle",
+      "name": "Snapmaker PLA Basic test @U1 0.6 nozzle",
       "sub_path": "filament/Snapmaker PLA Basic @U1 0.6 nozzle.json"
     },
     {
-      "name": "Snapmaker PLA Basic @U1 0.8 nozzle",
+      "name": "Snapmaker PLA Basic test @U1 0.8 nozzle",
       "sub_path": "filament/Snapmaker PLA Basic @U1 0.8 nozzle.json"
     },
     {
@@ -1590,7 +1590,7 @@
       "sub_path": "filament/Snapmaker PLA SnapSpeed @U1 base.json"
     },
     {
-      "name": "Snapmaker PLA SnapSpeed @U1 0.2 nozzle",
+      "name": "Snapmaker PLA SnapSpeed test @U1 0.2 nozzle",
       "sub_path": "filament/Snapmaker PLA SnapSpeed @U1 0.2 nozzle.json"
     },
     {
@@ -1598,11 +1598,11 @@
       "sub_path": "filament/Snapmaker PLA SnapSpeed @U1 0.4 nozzle.json"
     },
     {
-      "name": "Snapmaker PLA SnapSpeed @U1 0.6 nozzle",
+      "name": "Snapmaker PLA SnapSpeed test @U1 0.6 nozzle",
       "sub_path": "filament/Snapmaker PLA SnapSpeed @U1 0.6 nozzle.json"
     },
     {
-      "name": "Snapmaker PLA SnapSpeed @U1 0.8 nozzle",
+      "name": "Snapmaker PLA SnapSpeed test @U1 0.8 nozzle",
       "sub_path": "filament/Snapmaker PLA SnapSpeed @U1 0.8 nozzle.json"
     },
     {

@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Generic PLA-CF @U1 0.8 nozzle",
+    "name": "Generic PLA-CF test @U1 0.8 nozzle",
     "inherits": "Generic PLA-CF @base",
     "from": "system",
     "setting_id": "GFSL9811",

@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Generic PETG-CF @U1 0.2 nozzle",
+    "name": "Generic PETG-CF test @U1 0.2 nozzle",
     "inherits": "Generic PETG-CF @base",
     "from": "system",
     "setting_id": "GFSG50_021",

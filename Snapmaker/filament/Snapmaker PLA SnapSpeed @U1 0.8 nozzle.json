@@ -2,7 +2,7 @@
     "type": "filament",
     "from": "system",
     "instantiation": "true",
-    "name": "Snapmaker PLA SnapSpeed @U1 0.8 nozzle",
+    "name": "Snapmaker PLA SnapSpeed test @U1 0.8 nozzle",
     "setting_id": "119531393501",
     "inherits": "Snapmaker PLA SnapSpeed @U1 base",
     "compatible_printers": [

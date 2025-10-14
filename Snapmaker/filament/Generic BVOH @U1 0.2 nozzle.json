@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Generic BVOH @U1 0.2 nozzle",
+    "name": "Generic BVOH test @U1 0.2 nozzle",
     "inherits": "Generic BVOH @base",
     "from": "system",
     "setting_id": "GFSS97_00",

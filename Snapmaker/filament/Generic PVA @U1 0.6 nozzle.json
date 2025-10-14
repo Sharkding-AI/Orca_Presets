@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Generic PVA @U1 0.6 nozzle",
+    "name": "Generic PVA test @U1 0.6 nozzle",
     "inherits": "Generic PVA @base",
     "from": "system",
     "setting_id": "GFSS99",

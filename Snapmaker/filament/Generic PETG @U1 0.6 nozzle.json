@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Generic PETG @U1 0.6 nozzle",
+    "name": "Generic PETG test @U1 0.6 nozzle",
     "inherits": "Generic PETG @base",
     "from": "system",
     "setting_id": "GFSG00_01",

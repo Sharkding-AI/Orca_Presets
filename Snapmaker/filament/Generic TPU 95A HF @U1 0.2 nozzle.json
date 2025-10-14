@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Generic TPU 95A HF @U1 0.2 nozzle",
+    "name": "Generic TPU 95A HF test @U1 0.2 nozzle",
     "inherits": "Generic TPU 95A HF @base",
     "from": "system",
     "setting_id": "GFSU00_00",

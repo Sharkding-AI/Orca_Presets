@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Generic TPU",
+    "name": "Generic TPU @U1 0.4 nozzle",
     "inherits": "fdm_filament_tpu_generic",
     "from": "system",
     "filament_id": "GFU99",

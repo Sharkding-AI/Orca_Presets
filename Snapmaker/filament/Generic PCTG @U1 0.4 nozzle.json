@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Generic PCTG",
+    "name": "Generic PCTG @U1 0.4 nozzle",
     "inherits": "Generic PCTG @base",
     "from": "system",
     "setting_id": "GFSG97_001",

@@ -1,6 +1,6 @@
 {
     "type": "filament",
-    "name": "Generic PETG HF",
+    "name": "Generic PETG HF @U1 0.4 nozzle",
     "inherits": "Generic PETG HF @base",
     "from": "system",
     "setting_id": "GFSG02_001",

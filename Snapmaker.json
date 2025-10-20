@@ -469,6 +469,54 @@
       "sub_path":"filament/fdm_filament_bvoh_generic.json"
     },
     {
+      "name": "fdm_filament_abs_generic",
+      "sub_path": "filament/fdm_filament_abs_generic.json"
+    },
+    {
+      "name": "fdm_filament_asa_generic",
+      "sub_path": "filament/fdm_filament_asa_generic.json"
+    },
+    {
+      "name": "fdm_filament_pa_generic",
+      "sub_path": "filament/fdm_filament_pa_generic.json"
+    },
+    {
+      "name": "fdm_filament_pc_generic",
+      "sub_path": "filament/fdm_filament_pc_generic.json"
+    },
+    {
+      "name": "Generic ABS @base",
+      "sub_path": "filament/Generic ABS @base.json"
+    },
+    {
+      "name": "Generic ABS",
+      "sub_path": "filament/Generic ABS.json"
+    },
+    {
+      "name": "Generic ASA @base",
+      "sub_path": "filament/Generic ASA @base.json"
+    },
+    {
+      "name": "Generic ASA",
+      "sub_path": "filament/Generic ASA.json"
+    },
+    {
+      "name": "Generic PA",
+      "sub_path": "filament/Generic PA.json"
+    },
+    {
+      "name": "Generic PA-CF",
+      "sub_path": "filament/Generic PA-CF.json"
+    },
+    {
+      "name": "Generic PC @base",
+      "sub_path": "filament/Generic PC @base.json"
+    },
+    {
+      "name": "Generic PC",
+      "sub_path": "filament/Generic PC.json"
+    },
+    {
       "name": "Generic Support For PLA @base",
       "sub_path": "filament/Generic Support For PLA @base.json"
     },

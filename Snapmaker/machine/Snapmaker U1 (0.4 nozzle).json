@@ -1,6 +1,6 @@
 {
     "type": "machine",
-    "setting_id": "1591507869",
+    "setting_id": "SM_U1",
     "name": "Snapmaker U1 (0.4 nozzle)",
     "from": "system",
     "instantiation": "true",
@@ -196,5 +196,6 @@
     "ramming_pressure_advance_value": "0.02",
     "tool_change_temprature_wait": "0",
     "printer_notes": "",
-    "machine_pause_gcode": "M600"
+    "machine_pause_gcode": "M600",
+    "default_bed_type": "Textured PEI Plate"
 }

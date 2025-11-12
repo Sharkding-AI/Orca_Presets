@@ -636,7 +636,14 @@
       "name": "Generic TPU 95A HF",
       "sub_path": "filament/Generic TPU 95A HF.json"
     },
-
+    {
+      "name": "Snapmaker PETG HF @base",
+      "sub_path": "filament/Snapmaker PETG HF @base.json"
+    },
+    {
+      "name": "Snapmaker PETG HF",
+      "sub_path": "filament/Snapmaker PETG HF.json"
+    },
 
 
 

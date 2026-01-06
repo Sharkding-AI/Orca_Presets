@@ -3,7 +3,7 @@
     "name": "fdm_process_U1_common",
     "inherits": "fdm_process_U1",
     "from": "system",
-    "instantiation": "true",
+    "instantiation": "false",
     "max_travel_detour_distance": "0",
     "bottom_surface_pattern": "monotonic",
     "bottom_shell_layers": "4",
@@ -70,6 +70,9 @@
     "prime_tower_width": "30",
     "wall_generator": "classic",
     "compatible_printers": [
+        "Snapmaker U1 (0.2 nozzle)",
+        "Snapmaker U1 (0.4 nozzle)",
+        "Snapmaker U1 (0.6 nozzle)",
         "Snapmaker U1 (0.8 nozzle)"
     ],
     "initial_layer_print_height": "0.4",

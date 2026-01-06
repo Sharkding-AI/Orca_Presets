@@ -3,7 +3,7 @@
     "name": "fdm_process_U1_0.20",
     "inherits": "fdm_process_U1_common",
     "from": "system",
-    "instantiation": "true",
+    "instantiation": "false",
     "elefant_foot_compensation": "0.15",
     "top_shell_thickness": "1.0",
     "bridge_flow": "1",

@@ -3,7 +3,7 @@
     "name": "fdm_process_U1_0.16",
     "inherits": "fdm_process_U1_common",
     "from": "system",
-    "instantiation": "true",
+    "instantiation": "false",
     "layer_height": "0.16",
     "elefant_foot_compensation": "0.15",
     "bottom_shell_layers": "4",

@@ -1,6 +1,6 @@
 {
   "name": "Snapmaker",
-  "version": "02.02.40.02",
+  "version": "02.02.42.02",
   "force_update": "0",
   "description": "Snapmaker configurations",
   "machine_model_list": [
@@ -1590,7 +1590,7 @@
       "sub_path": "filament/Snapmaker PLA SnapSpeed @U1 base.json"
     },
     {
-      "name": "Snapmaker PLA SnapSpeed test @U1 0.2 nozzle",
+      "name": "Snapmaker PLA SnapSpeed @U1 0.2 nozzle",
       "sub_path": "filament/Snapmaker PLA SnapSpeed @U1 0.2 nozzle.json"
     },
     {
@@ -1598,11 +1598,11 @@
       "sub_path": "filament/Snapmaker PLA SnapSpeed @U1 0.4 nozzle.json"
     },
     {
-      "name": "Snapmaker PLA SnapSpeed test @U1 0.6 nozzle",
+      "name": "Snapmaker PLA SnapSpeed @U1 0.6 nozzle",
       "sub_path": "filament/Snapmaker PLA SnapSpeed @U1 0.6 nozzle.json"
     },
     {
-      "name": "Snapmaker PLA SnapSpeed test @U1 0.8 nozzle",
+      "name": "Snapmaker PLA SnapSpeed @U1 0.8 nozzle",
       "sub_path": "filament/Snapmaker PLA SnapSpeed @U1 0.8 nozzle.json"
     },
     {

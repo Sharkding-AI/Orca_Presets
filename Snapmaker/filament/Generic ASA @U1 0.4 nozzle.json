@@ -1,9 +1,9 @@
 {
     "type": "filament",
-    "name": "Generic PLA-CF @U1 0.4 nozzle",
-    "inherits": "Generic PLA-CF @base",
+    "name": "Generic ASA @U1 0.4 nozzle",
+    "inherits": "Generic ASA @base",
     "from": "system",
-    "setting_id": "GFSL9811",
+    "setting_id": "GFSB98",
     "instantiation": "true",
     "compatible_printers": [
         "Snapmaker U1 (0.4 nozzle)"
@@ -14,31 +14,22 @@
     "filament_end_gcode": [
         ""
     ],
-    "filament_minimal_purge_on_wipe_tower": [
-        "60"
-    ],
     "filament_multitool_ramming": [
         "1"
     ],
     "filament_multitool_ramming_flow": [
-        "20"
+        "12"
     ],
     "filament_multitool_ramming_volume": [
-        "5"
+        "0.5"
+    ],
+    "filament_retract_length_toolchange": [
+        "10"
     ],
     "filament_start_gcode": [
         ""
     ],
     "filament_vendor": [
         "Generic"
-    ],
-    "filament_retract_length_toolchange": [
-        "10"
-    ],
-    "textured_plate_temp": [
-        "65"
-    ],
-    "textured_plate_temp_initial_layer": [
-        "65"
     ]
 }

@@ -1,0 +1,8 @@
+{
+    "type": "filament",
+    "name": "Generic PHA bambu @base",
+    "inherits": "fdm_filament_pha_bambu",
+    "from": "system",
+    "filament_id": "GFR98",
+    "instantiation": "false"
+}

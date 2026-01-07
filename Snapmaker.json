@@ -921,28 +921,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
     {
       "name": "fdm_filament_common",
       "sub_path": "filament/fdm_filament_common.json"
@@ -1628,8 +1606,583 @@
     {
       "name": "Snapmaker TPU 95A @U1 base",
       "sub_path":"filament/Snapmaker TPU 95A @U1 base.json"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "fdm_filament_common_bambu",
+      "sub_path": "filament/fdm_filament_common_bambu.json"
+    },
+
+
+
+
+    {
+      "name": "fdm_filament_abs_bambu",
+      "sub_path": "filament/fdm_filament_abs_bambu.json"  
+    },
+    {
+      "name": "fdm_filament_asa_bambu",
+      "sub_path": "filament/fdm_filament_asa_bambu.json"
+    },
+    {
+      "name": "fdm_filament_bvoh_bambu",
+      "sub_path": "filament/fdm_filament_bvoh_bambu.json"
+    },
+    {
+      "name": "fdm_filament_eva_bambu",
+      "sub_path": "filament/fdm_filament_eva_bambu.json"
+    },
+    {
+      "name": "fdm_filament_hips_bambu",
+      "sub_path": "filament/fdm_filament_hips_bambu.json"
+    },
+    {
+      "name": "fdm_filament_pa_bambu",
+      "sub_path": "filament/fdm_filament_pa_bambu.json"
+    },
+    {
+      "name": "fdm_filament_pc_bambu",
+      "sub_path": "filament/fdm_filament_pc_bambu.json"
+    },
+    {
+      "name": "fdm_filament_pctg_bambu",
+      "sub_path": "filament/fdm_filament_pctg_bambu.json"
+    },
+    {
+      "name": "fdm_filament_pe_bambu",
+      "sub_path": "filament/fdm_filament_pe_bambu.json"
+    },
+    {
+      "name": "fdm_filament_pet_bambu",
+      "sub_path": "filament/fdm_filament_pet_bambu.json"
+    },
+    {
+      "name": "fdm_filament_pha_bambu",
+      "sub_path": "filament/fdm_filament_pha_bambu.json"
+    },
+    {
+      "name": "fdm_filament_pla_bambu",
+      "sub_path": "filament/fdm_filament_pla_bambu.json"
+    },
+    {
+      "name": "fdm_filament_pp_bambu",
+      "sub_path": "filament/fdm_filament_pp_bambu.json"
+    },
+    {
+      "name": "fdm_filament_ppa_bambu",
+      "sub_path": "filament/fdm_filament_ppa_bambu.json"
+    },
+    {
+      "name": "fdm_filament_pva_bambu",
+      "sub_path": "filament/fdm_filament_pva_bambu.json"
+    },
+    {
+      "name": "fdm_filament_tpu_bambu",
+      "sub_path": "filament/fdm_filament_tpu_bambu.json"
+    },
+
+
+
+
+
+    
+
+
+    {
+      "name": "Generic ABS bambu @base",
+      "sub_path": "filament/Generic ABS bambu @base.json"
+    },
+    {
+      "name": "Generic ABS bambu @U1 0.2 nozzle",
+      "sub_path": "filament/Generic ABS bambu @U1 0.2 nozzle.json"
+    },
+    {
+      "name": "Generic ABS bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic ABS bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic ABS bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic ABS bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic ABS bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic ABS bambu @U1 0.8 nozzle.json"
+    },
+
+    {
+      "name": "Generic ASA bambu @base",
+      "sub_path": "filament/Generic ASA bambu @base.json"
+    },
+    {
+      "name": "Generic ASA bambu @U1 0.2 nozzle",
+      "sub_path": "filament/Generic ASA bambu @U1 0.2 nozzle.json"
+    },
+    {
+      "name": "Generic ASA bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic ASA bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic ASA bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic ASA bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic ASA bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic ASA bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic BVOH bambu @base",
+      "sub_path": "filament/Generic BVOH bambu @base.json"
+    },
+    {
+      "name": "Generic BVOH bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic BVOH bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic BVOH bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic BVOH bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic BVOH bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic BVOH bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic EVA bambu @base",
+      "sub_path": "filament/Generic EVA bambu @base.json"
+    },
+    {
+      "name": "Generic EVA bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic EVA bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic EVA bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic EVA bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic EVA bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic EVA bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic HIPS bambu @base",
+      "sub_path": "filament/Generic HIPS bambu @base.json"
+    },
+    {
+      "name": "Generic HIPS bambu @U1 0.2 nozzle",
+      "sub_path": "filament/Generic HIPS bambu @U1 0.2 nozzle.json"
+    },
+    {
+      "name": "Generic HIPS bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic HIPS bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic HIPS bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic HIPS bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic HIPS bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic HIPS bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic PA bambu @base",
+      "sub_path": "filament/Generic PA bambu @base.json"
+    },
+    {
+      "name": "Generic PA bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic PA bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PA bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PA bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PA bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PA bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic PA-CF bambu @base",
+      "sub_path": "filament/Generic PA-CF bambu @base.json"
+    },
+    {
+      "name": "Generic PA-CF bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic PA-CF bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PA-CF bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PA-CF bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PA-CF bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PA-CF bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic PC bambu @base",
+      "sub_path": "filament/Generic PC bambu @base.json"
+    },
+    
+    {
+      "name": "Generic PC bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PC bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic PC bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PC bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PC bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic PC bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PC bambu @U1 0.2 nozzle",
+      "sub_path": "filament/Generic PC bambu @U1 0.2 nozzle.json"
+    },
+    {
+      "name": "Generic PCTG bambu @base",
+      "sub_path": "filament/Generic PCTG bambu @base.json"
+    },
+    {
+      "name": "Generic PCTG bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic PCTG bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PCTG bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PCTG bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PCTG bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PCTG bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic PE bambu @base",
+      "sub_path": "filament/Generic PE bambu @base.json"
+    },
+    {
+      "name": "Generic PE bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic PE bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PE bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PE bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PE bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PE bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic PE-CF bambu @base",
+      "sub_path": "filament/Generic PE-CF bambu @base.json"
+    },
+    {
+      "name": "Generic PE-CF bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic PE-CF bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PE-CF bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PE-CF bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PE-CF bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PE-CF bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic PETG bambu @base",
+      "sub_path": "filament/Generic PETG bambu @base.json"
+    },
+    {
+      "name": "Generic PETG bambu @U1 0.2 nozzle",
+      "sub_path": "filament/Generic PETG bambu @U1 0.2 nozzle.json"
+    },
+    {
+      "name": "Generic PETG bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic PETG bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PETG bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PETG bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PETG bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PETG bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic PETG HF bambu @base",
+      "sub_path": "filament/Generic PETG HF bambu @base.json"
+    },
+    {
+      "name": "Generic PETG HF bambu @U1 0.2 nozzle",
+      "sub_path": "filament/Generic PETG HF bambu @U1 0.2 nozzle.json"
+    },
+    {
+      "name": "Generic PETG HF bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic PETG HF bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PETG HF bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PETG HF bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PETG HF bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PETG HF bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic PETG-CF bambu @base",
+      "sub_path": "filament/Generic PETG-CF bambu @base.json"
+    },
+    {
+      "name": "Generic PETG-CF bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic PETG-CF bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PETG-CF bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PETG-CF bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PETG-CF bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PETG-CF bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic PHA bambu @base",
+      "sub_path": "filament/Generic PHA bambu @base.json"
+    },
+    {
+      "name": "Generic PHA bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic PHA bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PHA bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PHA bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PHA bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PHA bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic PLA bambu @base",
+      "sub_path": "filament/Generic PLA bambu @base.json"
+    },
+    {
+      "name": "Generic PLA bambu @U1 0.2 nozzle",
+      "sub_path": "filament/Generic PLA bambu @U1 0.2 nozzle.json"
+    },
+    {
+      "name": "Generic PLA bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic PLA bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PLA bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PLA bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PLA bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PLA bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic PLA High Speed bambu @base",
+      "sub_path": "filament/Generic PLA High Speed bambu @base.json"
+    },
+    {
+      "name": "Generic PLA High Speed bambu @U1 0.2 nozzle",
+      "sub_path": "filament/Generic PLA High Speed bambu @U1 0.2 nozzle.json"
+    },
+    {
+      "name": "Generic PLA High Speed bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic PLA High Speed bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PLA High Speed bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PLA High Speed bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PLA High Speed bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PLA High Speed bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic PLA Silk bambu @base",
+      "sub_path": "filament/Generic PLA Silk bambu @base.json"
+    },
+    {
+      "name": "Generic PLA Silk bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic PLA Silk bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PLA Silk bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PLA Silk bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PLA Silk bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PLA Silk bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic PLA-CF bambu @base",
+      "sub_path": "filament/Generic PLA-CF bambu @base.json"
+    },
+    {
+      "name": "Generic PLA-CF bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic PLA-CF bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PLA-CF bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PLA-CF bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PLA-CF bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PLA-CF bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic PP bambu @base",
+      "sub_path": "filament/Generic PP bambu @base.json"
+    },
+    {
+      "name": "Generic PP bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic PP bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PP bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PP bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PP bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PP bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic PP-CF bambu @base",
+      "sub_path": "filament/Generic PP-CF bambu @base.json"
+    },
+    {
+      "name": "Generic PP-CF bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic PP-CF bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PP-CF bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PP-CF bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PP-CF bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PP-CF bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic PP-GF bambu @base",
+      "sub_path": "filament/Generic PP-GF bambu @base.json"
+    },
+    {
+      "name": "Generic PP-GF bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic PP-GF bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PP-GF bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PP-GF bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PP-GF bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PP-GF bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic PPA-CF bambu @base",
+      "sub_path": "filament/Generic PPA-CF bambu @base.json"
+    },
+    {
+      "name": "Generic PPA-CF bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic PPA-CF bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PPA-CF bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PPA-CF bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PPA-CF bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PPA-CF bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic PPA-GF bambu @base",
+      "sub_path": "filament/Generic PPA-GF bambu @base.json"
+    },
+    {
+      "name": "Generic PPA-GF bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic PPA-GF bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PPA-GF bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PPA-GF bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PPA-GF bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PPA-GF bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic PVA bambu @base",
+      "sub_path": "filament/Generic PVA bambu @base.json"
+    },
+    {
+      "name": "Generic PVA bambu @U1 0.2 nozzle",
+      "sub_path": "filament/Generic PVA bambu @U1 0.2 nozzle.json"
+    },
+    {
+      "name": "Generic PVA bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic PVA bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic PVA bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PVA bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PVA bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PVA bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic TPU bambu @base",
+      "sub_path": "filament/Generic TPU bambu @base.json"
+    },
+    {
+      "name": "Generic TPU bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic TPU bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic TPU bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic TPU bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic TPU bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic TPU bambu @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Generic TPU for AMS bambu @base",
+      "sub_path": "filament/Generic TPU for AMS bambu @base.json"
+    },
+    {
+      "name": "Generic TPU for AMS bambu @U1 0.4 nozzle",
+      "sub_path": "filament/Generic TPU for AMS bambu @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Generic TPU for AMS bambu @U1 0.6 nozzle",
+      "sub_path": "filament/Generic TPU for AMS bambu @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic TPU for AMS bambu @U1 0.8 nozzle",
+      "sub_path": "filament/Generic TPU for AMS bambu @U1 0.8 nozzle.json"
     }
     
+    
+    
+
+
+
+    
+
+
+
+
+
   ],
   "machine_list": [
     {

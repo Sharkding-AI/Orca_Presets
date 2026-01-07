@@ -1,0 +1,11 @@
+{
+    "type": "filament",
+    "name": "Generic PETG bambu @U1 0.6 nozzle",
+    "inherits": "Generic PETG bambu @base",
+    "from": "system",
+    "setting_id": "GFSG99",
+    "instantiation": "true",
+    "compatible_printers": [
+        "Snapmaker U1 (0.6 nozzle)"
+    ]
+}

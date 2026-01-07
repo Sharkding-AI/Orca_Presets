@@ -1,0 +1,14 @@
+{
+    "type": "filament",
+    "name": "Generic PLA-CF bambu @U1 0.4 nozzle",
+    "inherits": "Generic PLA-CF bambu @base",
+    "from": "system",
+    "setting_id": "GFSL98",
+    "instantiation": "true",
+    "compatible_printers": [
+        "Snapmaker U1 (0.4 nozzle)"
+    ],
+    "filament_end_gcode": [
+        "; filament end gcode \n\n"
+    ]
+}

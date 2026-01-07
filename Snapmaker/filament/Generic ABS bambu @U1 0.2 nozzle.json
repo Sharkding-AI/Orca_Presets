@@ -1,0 +1,14 @@
+{
+    "type": "filament",
+    "name": "Generic ABS bambu @U1 0.2 nozzle",
+    "inherits": "Generic ABS bambu @base",
+    "from": "system",
+    "setting_id": "GFSB99_00",
+    "instantiation": "true",
+    "filament_max_volumetric_speed": [
+        "2"
+    ],
+    "compatible_printers": [
+        "Snapmaker U1 (0.2 nozzle)"
+    ]
+}

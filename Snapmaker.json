@@ -838,7 +838,7 @@
       "sub_path": "filament/Generic PLA Silk @base.json"
     },
     {
-      "name": "Generic PLA Silk @U1 test 0.2 nozzle",
+      "name": "Generic PLA Silk @U1 0.2 nozzle",
       "sub_path": "filament/Generic PLA Silk @U1 0.2 nozzle.json"
     },
     {
@@ -846,11 +846,11 @@
       "sub_path": "filament/Generic PLA Silk @U1 0.4 nozzle.json"
     },
     {
-      "name": "Generic PLA Silk @U1 test 0.6 nozzle",
+      "name": "Generic PLA Silk @U1 0.6 nozzle",
       "sub_path": "filament/Generic PLA Silk @U1 0.6 nozzle.json"
     },
     {
-      "name": "Generic PLA Silk @U1 test 0.8 nozzle",
+      "name": "Generic PLA Silk @U1 0.8 nozzle",
       "sub_path": "filament/Generic PLA Silk @U1 0.8 nozzle.json"
     },
     {

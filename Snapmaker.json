@@ -1303,6 +1303,10 @@
       "name": "Snapmaker PLA Silk @U1 base",
       "sub_path": "filament/Snapmaker PLA Silk @U1 base.json"
     },
+	{
+      "name": "Snapmaker TPU 95A HF @U1",
+      "sub_path": "filament/Snapmaker TPU 95A HF @U1.json"
+    },
     {
       "name": "Snapmaker PLA-CF @U1 base",
       "sub_path": "filament/Snapmaker PLA-CF @U1 base.json"

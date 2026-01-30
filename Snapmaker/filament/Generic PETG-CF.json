@@ -24,22 +24,22 @@
         "Snapmaker U1 (0.4 nozzle)"
     ],
     "enable_pressure_advance": [
-        "0"
+        "1"
     ],
     "filament_end_gcode": [
         "\n"
     ],
     "filament_minimal_purge_on_wipe_tower": [
-        "50"
+        "15"
     ],
     "filament_multitool_ramming": [
         "1"
     ],
     "filament_multitool_ramming_flow": [
-        "15"
+        "13"
     ],
     "filament_multitool_ramming_volume": [
-        "5"
+        "0.5"
     ],
     "filament_start_gcode": [
         ""
@@ -63,6 +63,12 @@
         "80"
     ],
     "textured_plate_temp_initial_layer": [
+        "80"
+    ],
+    "eng_plate_temp": [
+        "80"
+    ],
+    "eng_plate_temp_initial_layer": [
         "80"
     ]
 }

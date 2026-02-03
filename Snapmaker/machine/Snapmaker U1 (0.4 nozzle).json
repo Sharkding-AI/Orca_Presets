@@ -193,6 +193,7 @@
         "0",
         "0"
     ],
+    "default_print_profile": "0.20 Standard @Snapmaker U1 (0.4 nozzle)",
     "ramming_pressure_advance_value": "0.02",
     "tool_change_temprature_wait": "0",
     "printer_notes": "",

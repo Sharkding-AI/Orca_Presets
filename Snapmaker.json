@@ -2308,6 +2308,33 @@
 	{
       "name": "Generic PLA Silk @U1 0.8 nozzle",
       "sub_path": "filament/Generic PLA Silk @U1 0.8 nozzle.json"
+    },
+	
+	
+	
+    {
+      "name": "fdm_filament_common_poly_test",
+      "sub_path": "filament/fdm_filament_common_poly_test.json"
+    },
+    {
+      "name": "fdm_filament_pla_poly_test",
+      "sub_path": "filament/fdm_filament_pla_poly_test.json"
+    },
+    {
+      "name": "Polymaker PLA @U1 base",
+      "sub_path": "filament/Polymaker PLA @U1 base.json"
+    },
+    {
+      "name": "Polymaker General PLA Family @U1",
+      "sub_path": "filament/Polymaker General PLA Family @U1.json"
+    },
+    {
+      "name": "Polymaker Silk PLA Family @U1",
+      "sub_path": "filament/Polymaker Silk PLA Family @U1.json"
+    },
+    {
+      "name": "Polymaker Tough PLA Family @U1",
+      "sub_path": "filament/Polymaker Tough PLA Family @U1.json"
     }
     
 

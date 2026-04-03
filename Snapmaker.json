@@ -1612,6 +1612,20 @@
     {
       "name": "Generic PETG HF @U1 0.8 nozzle",
       "sub_path": "filament/Generic PETG HF @U1 0.8 nozzle.json"
+    },
+
+
+    {
+      "name": "Generic PETG-CF @base2",
+      "sub_path": "filament/Generic PETG-CF @base2.json"
+    },
+    {
+      "name": "Generic PETG-CF @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PETG-CF @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PETG-CF @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PETG-CF @U1 0.8 nozzle.json"
     }
 
   ],

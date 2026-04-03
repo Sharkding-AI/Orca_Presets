@@ -1720,14 +1720,21 @@
       "sub_path": "filament/Snapmaker PLA Silk @U1.json"
     },
 
-    {
-      "name": "Snapmaker PLA Wood @U1",
-      "sub_path": "filament/Snapmaker PLA Wood @U1.json"
+    { 
+      "name": "Snapmaker PLA SnapSpeed @U1 base2",
+      "sub_path": "filament/Snapmaker PLA SnapSpeed @U1 base2.json"
     },
-
     {
-      "name": "Snapmaker PLA-CF @U1",
-      "sub_path": "filament/Snapmaker PLA-CF @U1.json"
+      "name": "Snapmaker PLA SnapSpeed @U1 0.2 nozzle",
+      "sub_path": "filament/Snapmaker PLA SnapSpeed @U1 0.2 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PLA SnapSpeed @U1 0.6 nozzle",
+      "sub_path": "filament/Snapmaker PLA SnapSpeed @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PLA SnapSpeed @U1 0.8 nozzle",
+      "sub_path": "filament/Snapmaker PLA SnapSpeed @U1 0.8 nozzle.json"
     }
 
   ],

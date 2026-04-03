@@ -1722,6 +1722,18 @@
       "name": "Snapmaker U1 (0.4 nozzle)",
       "sub_path": "machine/Snapmaker U1 (0.4 nozzle).json"
     },
+	{
+      "name": "Snapmaker U1 (0.2 nozzle)",
+      "sub_path": "machine/Snapmaker U1 (0.2 nozzle).json"
+    },
+	{
+      "name": "Snapmaker U1 (0.6 nozzle)",
+      "sub_path": "machine/Snapmaker U1 (0.6 nozzle).json"
+    },
+	{
+      "name": "Snapmaker U1 (0.8 nozzle)",
+      "sub_path": "machine/Snapmaker U1 (0.8 nozzle).json"
+    },
     {
       "name": "Snapmaker Artisan (0.2 nozzle)",
       "sub_path": "machine/Snapmaker Artisan (0.2 nozzle).json"

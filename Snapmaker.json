@@ -1540,6 +1540,19 @@
     {
       "name": "Generic PLA Silk @U1 0.8 nozzle",
       "sub_path": "filament/Generic PLA Silk @U1 0.8 nozzle.json"
+    },
+
+    {
+      "name": "Generic PLA-CF @base2",
+      "sub_path": "filament/Generic PLA-CF @base2.json"
+    },
+    {
+      "name": "Generic PLA-CF @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PLA-CF @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PLA-CF @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PLA-CF @U1 0.8 nozzle.json"
     }
 
   ],

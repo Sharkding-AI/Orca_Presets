@@ -1718,6 +1718,16 @@
     {
       "name": "Snapmaker PLA Silk @U1",
       "sub_path": "filament/Snapmaker PLA Silk @U1.json"
+    },
+
+    {
+      "name": "Snapmaker PLA Wood @U1",
+      "sub_path": "filament/Snapmaker PLA Wood @U1.json"
+    },
+
+    {
+      "name": "Snapmaker PLA-CF @U1",
+      "sub_path": "filament/Snapmaker PLA-CF @U1.json"
     }
 
   ],

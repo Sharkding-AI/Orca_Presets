@@ -1712,8 +1712,13 @@
     {
       "name": "Snapmaker PETG HF @U1 0.8 nozzle",
       "sub_path": "filament/Snapmaker PETG HF @U1 0.8 nozzle.json"
+    },
+
+
+    {
+      "name": "Snapmaker PLA Silk @U1",
+      "sub_path": "filament/Snapmaker PLA Silk @U1.json"
     }
-    
 
   ],
   "machine_list": [

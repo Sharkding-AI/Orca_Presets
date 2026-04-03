@@ -28,9 +28,6 @@
     "adaptive_pressure_advance_overhangs": [
         "0"
     ],
-    "additional_cooling_fan_speed": [
-        "70"
-    ],
     "chamber_temperature": [
         "0"
     ],
@@ -79,15 +76,6 @@
     "fan_min_speed": [
         "100"
     ],
-    "filament_cooling_final_speed": [
-        "3.4"
-    ],
-    "filament_cooling_initial_speed": [
-        "2.2"
-    ],
-    "filament_cooling_moves": [
-        "4"
-    ],
     "filament_cost": [
         "24.99"
     ],
@@ -103,23 +91,11 @@
     "filament_is_support": [
         "0"
     ],
-    "filament_loading_speed": [
-        "28"
-    ],
-    "filament_loading_speed_start": [
-        "3"
-    ],
     "filament_long_retractions_when_cut": [
         "nil"
     ],
-    "filament_minimal_purge_on_wipe_tower": [
-        "15"
-    ],
     "filament_multitool_ramming": [
         "1"
-    ],
-    "filament_multitool_ramming_volume": [
-        "5"
     ],
     "filament_notes": [
         ""
@@ -166,12 +142,6 @@
     "filament_soluble": [
         "0"
     ],
-    "filament_stamping_distance": [
-        "0"
-    ],
-    "filament_stamping_loading_speed": [
-        "0"
-    ],
     "filament_start_gcode": [
         " "
     ],
@@ -180,9 +150,6 @@
     ],
     "filament_type": [
         "PLA"
-    ],
-    "filament_unloading_speed": [
-        "90"
     ],
     "filament_unloading_speed_start": [
         "100"
@@ -204,12 +171,6 @@
     ],
     "idle_temperature": [
         "0"
-    ],
-    "nozzle_temperature": [
-        "220"
-    ],
-    "nozzle_temperature_initial_layer": [
-        "220"
     ],
     "nozzle_temperature_range_high": [
         "240"
@@ -254,28 +215,8 @@
         "40"
     ],
 
-
-
-    "filament_deretraction_speed": [
-        "30"
-    ],
-    "filament_flow_ratio": [
-        "1.01"
-    ],
     "filament_max_volumetric_speed": [
         "2"
-    ],
-    "filament_multitool_ramming_flow": [
-        "30"
-    ],
-    "filament_retract_length_toolchange": [
-        "5"
-    ],
-    "filament_retraction_speed": [
-        "30"
-    ],
-    "filament_z_hop_types": [
-        "Slope Lift"
     ],
     "hot_plate_temp": [
         "65"
@@ -283,14 +224,85 @@
     "hot_plate_temp_initial_layer": [
         "65"
     ],
-    "pressure_advance": [
-        "0.2"
-    ],
     "textured_plate_temp": [
         "65"
     ],
     "textured_plate_temp_initial_layer": [
         "65"
+    ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "additional_cooling_fan_speed": [
+        "80"
+    ],
+    "filament_cooling_final_speed": [
+        "3.5"
+    ],
+    "filament_cooling_initial_speed": [
+        "10"
+    ],
+    "filament_cooling_moves": [
+        "2"
+    ],
+    "filament_deretraction_speed": [
+        "nil"
+    ],
+    "filament_flow_ratio": [
+        "1.05"
+    ],
+    "filament_loading_speed": [
+        "10"
+    ],
+    "filament_loading_speed_start": [
+        "50"
+    ],
+    "filament_minimal_purge_on_wipe_tower": [
+        "5"
+    ],
+    "filament_multitool_ramming_flow": [
+        "4"
+    ],
+    "filament_multitool_ramming_volume": [
+        "4"
+    ],
+    "filament_retract_length_toolchange": [
+        "2"
+    ],
+    "filament_retraction_speed": [
+        "nil"
+    ],
+    "filament_stamping_distance": [
+        "45"
+    ],
+    "filament_stamping_loading_speed": [
+        "29"
+    ],
+    "filament_unloading_speed": [
+        "100"
+    ],
+    "filament_z_hop_types": [
+        "nil"
+    ],
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "pressure_advance": [
+        "0.025"
     ]
 
 

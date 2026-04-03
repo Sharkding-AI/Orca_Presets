@@ -1695,7 +1695,25 @@
     {
       "name": "Snapmaker PLA Matte @U1 0.8 nozzle",
       "sub_path": "filament/Snapmaker PLA Matte @U1 0.8 nozzle.json"
+    },
+
+    {
+      "name": "Snapmaker PETG HF @U1 base2",
+      "sub_path": "filament/Snapmaker PETG HF @U1 base2.json"
+    },
+    {
+      "name": "Snapmaker PETG HF @U1 0.2 nozzle",
+      "sub_path": "filament/Snapmaker PETG HF @U1 0.2 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PETG HF @U1 0.6 nozzle",
+      "sub_path": "filament/Snapmaker PETG HF @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Snapmaker PETG HF @U1 0.8 nozzle",
+      "sub_path": "filament/Snapmaker PETG HF @U1 0.8 nozzle.json"
     }
+    
 
   ],
   "machine_list": [

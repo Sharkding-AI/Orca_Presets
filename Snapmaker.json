@@ -1671,6 +1671,12 @@
     {
       "name": "Generic TPU 95A HF @U1 0.8 nozzle",
       "sub_path": "filament/Generic TPU 95A HF @U1 0.8 nozzle.json"
+    },
+
+
+    {
+      "name": "Snapmaker TPU 90A @U1",
+      "sub_path": "filament/Snapmaker TPU 90A @U1.json"
     }
 
   ],

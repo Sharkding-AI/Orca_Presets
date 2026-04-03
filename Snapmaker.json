@@ -1511,6 +1511,10 @@
       "name": "fdm_filament_pet2",
       "sub_path": "filament/fdm_filament_pet2.json"
     },
+    {
+      "name": "fdm_filament_tpu2",
+      "sub_path": "filament/fdm_filament_tpu2.json"
+    },
 
 
     {
@@ -1640,6 +1644,20 @@
     {
       "name": "Generic PETG-GF @U1 0.8 nozzle",
       "sub_path": "filament/Generic PETG-GF @U1 0.8 nozzle.json"
+    },
+
+
+    {
+      "name": "Generic TPU @base2",
+      "sub_path": "filament/Generic TPU @base2.json"
+    },
+    {
+      "name": "Generic TPU @U1 0.6 nozzle",
+      "sub_path": "filament/Generic TPU @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic TPU @U1 0.8 nozzle",
+      "sub_path": "filament/Generic TPU @U1 0.8 nozzle.json"
     }
 
   ],

@@ -24,14 +24,9 @@
     "filament_multitool_ramming_volume": [
         "0.1"
     ],
-
     "pressure_advance": [
         "0.4"
     ],
-
-
-
-
     "additional_cooling_fan_speed": [
         "100"
     ],
@@ -68,7 +63,6 @@
     "filament_vendor": [
         "Snapmaker"
     ],
-
     "nozzle_temperature": [
         "230"
     ],
@@ -77,5 +71,11 @@
     ],
     "slow_down_layer_time": [
         "14"
+    ],
+    "graphic_effect_plate_temp": [
+        "35"
+    ],
+    "graphic_effect_plate_temp_initial_layer": [
+        "35"
     ]
 }

@@ -20,7 +20,6 @@
     "filament_start_gcode": [
         ""
     ],
-
     "enable_pressure_advance": [
         "1"
     ],
@@ -47,6 +46,11 @@
     ],
     "textured_plate_temp_initial_layer": [
         "65"
+    ],
+    "graphic_effect_plate_temp": [
+        "65"
+    ],
+    "graphic_effect_plate_temp_initial_layer": [
+        "65"
     ]
-
 }

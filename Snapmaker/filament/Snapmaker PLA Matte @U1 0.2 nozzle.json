@@ -8,8 +8,6 @@
     "compatible_printers": [
         "Snapmaker U1 (0.2 nozzle)"
     ],
-
-
     "activate_air_filtration": [
         "0"
     ],
@@ -214,7 +212,6 @@
     "textured_cool_plate_temp_initial_layer": [
         "40"
     ],
-
     "filament_max_volumetric_speed": [
         "2"
     ],
@@ -230,20 +227,6 @@
     "textured_plate_temp_initial_layer": [
         "65"
     ],
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     "additional_cooling_fan_speed": [
         "80"
     ],
@@ -303,15 +286,11 @@
     ],
     "pressure_advance": [
         "0.025"
+    ],
+    "graphic_effect_plate_temp": [
+        "65"
+    ],
+    "graphic_effect_plate_temp_initial_layer": [
+        "65"
     ]
-
-
-
-
-
-
-
-
-
-    
 }

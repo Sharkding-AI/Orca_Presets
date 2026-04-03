@@ -1494,6 +1494,34 @@
     {
       "name": "Polymaker Tough PLA Family @U1",
       "sub_path": "filament/Polymaker Tough PLA Family @U1.json"
+    },
+
+
+
+
+    {
+      "name": "fdm_filament_common2",
+      "sub_path": "filament/fdm_filament_common2.json"
+    },
+    {
+      "name": "fdm_filament_pla2",
+      "sub_path": "filament/fdm_filament_pla2.json"
+    },
+    {
+      "name": "Generic PLA @base2",
+      "sub_path": "filament/Generic PLA @base2.json"
+    },
+    {
+      "name": "Generic PLA @U1 0.2 nozzle",
+      "sub_path": "filament/Generic PLA @U1 0.2 nozzle.json"
+    },
+    {
+      "name": "Generic PLA @U1 0.6 nozzle",
+      "sub_path": "filament/Generic PLA @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Generic PLA @U1 0.8 nozzle",
+      "sub_path": "filament/Generic PLA @U1 0.8 nozzle.json"
     }
   ],
   "machine_list": [

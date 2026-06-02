@@ -1891,6 +1891,10 @@
     {
       "name": "Snapmaker PLA Full Spectrum @U1 0.4 nozzle",
       "sub_path": "filament/Snapmaker PLA Full Spectrum @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Snapmaker Breakaway Support For PLA @U1",
+      "sub_path": "filament/Snapmaker Breakaway Support For PLA @U1.json"
     }
     ],
   "machine_list": [

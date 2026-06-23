@@ -19,7 +19,6 @@
   "filament_cooling_final_speed": ["3.4"],
   "filament_cooling_initial_speed": ["2.2"],
   "filament_cooling_moves": ["4"],
-  "filament_cost": ["20"],
   "filament_flow_ratio": ["0.95"],
   "filament_loading_speed": ["28"],
   "filament_loading_speed_start": ["3"],
@@ -41,7 +40,6 @@
   "overhang_fan_speed": ["80"],
   "pressure_advance": ["0.02"],
   "slow_down_layer_time": ["12"],
-  "temperature_vitrification": ["100"],
   "textured_plate_temp": ["100"],
   "textured_plate_temp_initial_layer": ["100"]
 }
